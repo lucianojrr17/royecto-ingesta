@@ -1,0 +1,10 @@
+Instala Pandas
+pip install pandas
+
+
+Abre la CMD
+cd Desktop\proyecto-ingesta
+
+python ingesta.py
+
+python carga.py
